@@ -36,3 +36,7 @@ body{
 .container .pixel:hover img:last-child{
   opacity: 0;
 }
+.pic{
+ height: 20px;
+ width:20px;
+}
